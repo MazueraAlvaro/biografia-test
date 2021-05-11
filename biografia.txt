@@ -6,3 +6,5 @@ Mis Hobbies son:
     - Jugar FIFA 21
     - Montar bicicleta
     - Jugar Baloncesto
+    - Escalar
+    - Correr
