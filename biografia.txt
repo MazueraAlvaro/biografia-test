@@ -7,3 +7,4 @@ Mis Hobbies son:
     - Montar bicicleta
     - Jugar Baloncesto
     - Correr la MMC
+    - Escalar
